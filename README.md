@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React Auto Complete
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![screenshot](./screenshot.png)
+
+# Requirements
+
+- Node v18 (or simply run `nvm use`)
 
 ## Available Scripts
 

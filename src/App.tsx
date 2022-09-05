@@ -1,7 +1,9 @@
+import HomePage from 'page/HomePage';
+
 const App = () => {
   return (
     <main>
-      Hello!
+      <HomePage />
     </main>
   );
 };

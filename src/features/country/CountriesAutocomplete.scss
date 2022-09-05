@@ -1,0 +1,30 @@
+.countries-autocomplete {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.country-item {
+
+  display: flex;
+  padding: 1rem;
+
+  &__flag {
+    width: 32px;
+  }
+
+  &__name {
+    padding: 0 1rem;
+  }
+}
+
+.country-selected {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+
+  label {
+    font-weight: bold;
+  }
+
+}
